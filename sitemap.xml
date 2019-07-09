@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xianyu02.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-07-09T08:22:20.228Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xianyu02.github.io/category/index.html</loc>
     
     <lastmod>2019-07-09T08:19:07.921Z</lastmod>
@@ -61,13 +68,6 @@
     <loc>https://xianyu02.github.io/categories/index.html</loc>
     
     <lastmod>2019-06-19T03:44:23.002Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xianyu02.github.io/tags/index.html</loc>
-    
-    <lastmod>2019-06-19T03:06:21.046Z</lastmod>
     
   </url>
   
